@@ -1,0 +1,52 @@
+[
+  {
+    "placeName": "Urban Tandoor",
+    "placeImage": "assets/images/ut.png",
+    "placeItems": [
+      "Chole Bhature",
+      "Chole Kulche",
+      "Pav Bhaji",
+      "Aloo Paratha",
+      "Juice"
+    ],
+    "minOrder": 28
+  },
+  {
+
+    "placeImage": "assets/images/am.png",
+    "placeItems": [
+      "Chole Bhature",
+      "Chole Kulche",
+      "Pav Bhaji",
+      "Aloo Paratha",
+      "Juice"
+    ],
+    "placeName": "Amaaya",
+    "minOrder": 50
+  },
+  {
+    "placeImage": "assets/images/sb.png",
+    "placeItems": [
+      "Chole Bhature",
+      "Chole Kulche",
+      "Pav Bhaji",
+      "Aloo Paratha",
+      "Juice"
+    ],
+    "placeName": "Santa Banta",
+    "minOrder": 20
+  },
+  {
+
+  "placeImage": "asssets/images/au.png",
+    "placeName": "Aurum",
+  "placeItems": [
+    "Chole Bhature",
+    "Chole Kulche",
+    "Pav Bhaji",
+    "Aloo Paratha",
+    "Juice"
+  ],
+  "minOrder": 40
+}
+  ]
